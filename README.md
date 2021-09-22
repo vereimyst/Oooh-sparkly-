@@ -11,3 +11,5 @@ If the jeckyll thing is there do I still need style.css? No apparently.
 https://github.com/pages-themes/minimal details on the minimal style here
 
 Current site: https://vereimyst.github.io/Oooh-sparkly-/ how to change left side?
+
+Also there are contributors in this thing... do I keep them? can I even not keep them? idk man
