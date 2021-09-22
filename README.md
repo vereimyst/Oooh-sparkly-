@@ -16,6 +16,6 @@ Also there are contributors in this thing... do I keep them? can I even not keep
 
 
 Stuffs that I used:
-https://lab.github.com/githubtraining/introduction-to-html
-http://web.simmons.edu/~grabiner/comm244/weekfour/code-test.html#:~:text=You%20can%20include%20code%20examples,code%20as%20what%20it%20is
-https://github.com/pages-themes/minimal
+ - https://lab.github.com/githubtraining/introduction-to-html
+ - http://web.simmons.edu/~grabiner/comm244/weekfour/code-test.html#:~:text=You%20can%20include%20code%20examples,code%20as%20what%20it%20is
+ - https://github.com/pages-themes/minimal
