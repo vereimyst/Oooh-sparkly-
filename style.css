@@ -1,3 +1,11 @@
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+
+/* IGNORING ABSOLUTELY EVERYTHING FOR NOW
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
 
 body {
@@ -114,5 +122,5 @@ a {
       -webkit-transform: translate3d(-75%, 0%, 0);
               transform: translate3d(-75%, 0%, 0);
     }
-  }
+  }*/
   
