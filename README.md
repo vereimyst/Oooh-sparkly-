@@ -7,4 +7,7 @@ Notes to myself:
  - change the repo name before publishing x.x
  - ... do stuff... yeah
 
-If the jeckyll thing is there do I still need style.css?
+If the jeckyll thing is there do I still need style.css? No apparently.
+https://github.com/pages-themes/minimal details on the minimal style here
+
+Current site: https://vereimyst.github.io/Oooh-sparkly-/ how to change left side?
