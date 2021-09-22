@@ -13,3 +13,9 @@ https://github.com/pages-themes/minimal details on the minimal style here
 Current site: https://vereimyst.github.io/Oooh-sparkly-/ how to change left side?
 
 Also there are contributors in this thing... do I keep them? can I even not keep them? idk man
+
+
+Stuffs that I used:
+https://lab.github.com/githubtraining/introduction-to-html
+http://web.simmons.edu/~grabiner/comm244/weekfour/code-test.html#:~:text=You%20can%20include%20code%20examples,code%20as%20what%20it%20is
+https://github.com/pages-themes/minimal
