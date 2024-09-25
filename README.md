@@ -9,6 +9,7 @@ Notes to myself:
 
 If the jeckyll thing is there do I still need style.css? No apparently.
 https://github.com/pages-themes/minimal details on the minimal style here
+(good resource for reference https://github.com/pages-themes/minimal/blob/master/index.md -> Code view)
 
 Current site: https://vereimyst.github.io/Oooh-sparkly-/ how to change left side?
 
